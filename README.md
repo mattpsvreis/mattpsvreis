@@ -1,6 +1,6 @@
 ## <div align="center">Hi there, I'm Mateus Reis, a Junior Developer. 👋😎</div>
 
-#### <div align="center">- 📚 I’m currently in a 5-month residency in Software Engineering, learning HTML, CSS, JavaScript, Java, Node.JS, React, React-Native, SQL.</div>
+##### <div align="center">- 📚 I’m currently in a 5-month residency in Software Engineering, learning HTML, CSS, JavaScript, Java, Node.JS, React, React-Native, SQL.</div>
 
 <div align="center">
   <img align="center" alt="Mateus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
