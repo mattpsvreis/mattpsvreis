@@ -1,4 +1,4 @@
-## <div align="center">Hi there, I'm Mateus Reis, a Junior Developer. 👋😎</div>
+## <div align="center">Hey there, I'm Mateus Reis, a Junior Developer. 👋😎</div>
 
 ##### <div align="center">- 📚 I’m currently in a 5-month residency in Full Stack Development, learning Git, HTML, CSS, JavaScript, Node.JS, Java, React, React-Native, PostgreSQL, Android, and Swift.</div>
 
