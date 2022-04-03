@@ -1,6 +1,6 @@
 ## <div align="center">Hey there, I'm Mateus Reis, a Junior Developer. 👋😎</div>
 
-##### <div align="center">- 📚 I’m currently in a 5-month residency in Full Stack Development, learning Git, HTML, CSS, JavaScript, Node.JS, Java, React, React-Native, PostgreSQL, Android, and Swift.</div>
+##### <div align="center">- 📚 I’m currently in a 5-month residency in Full Stack Development, learning Git, HTML, CSS, JavaScript, Java, React, React-Native, PostgreSQL, Android, and Swift.</div>
 
 <div align="center">
   <img align="center" alt="Mateus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -8,7 +8,6 @@
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mateus-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mateus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mateus-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
