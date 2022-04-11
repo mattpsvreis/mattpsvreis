@@ -1,3 +1,7 @@
+<div align="center">
+  <img align="center" alt="Cat-Standing-On-Code-Watching-A-Simulated-Rainfall-To-The-Side" height="300" src="https://c.tenor.com/NqURjAGH6GYAAAAd/cat-code.gif">
+</div>
+
 ## <div align="center">Hey there, I'm Mateus Reis, a Junior Developer. 👋😎</div>
 
 ##### <div align="center">- 📚 I’m currently in a 5-month residency in Full Stack Development, learning Git, HTML, CSS, JavaScript, Java, React, React-Native, PostgreSQL, Android, and Swift.</div>
