@@ -1,4 +1,4 @@
-###### <div align="center">"You are too concerned with what was and what will be. There’s a saying: Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the 'present'." – Master Oogway 🐢</div>
+###### <div align="center">"If you only do what you can do, you will never be more than you are now." – Master Oogway 🐢</div>
 
 <div align="center">
   <img align="center" alt="Cat-Standing-On-Code-Watching-A-Simulated-Rainfall-To-The-Side" height="300" src="https://c.tenor.com/NqURjAGH6GYAAAAd/cat-code.gif">
