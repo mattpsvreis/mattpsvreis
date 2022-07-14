@@ -1,4 +1,4 @@
-###### <div align="center">"No matter how ridiculous the odds may seem, within us reside the power to overcome these challenges and achieve something beautiful, and one day we'll look back at where we started and be amazed by how far we've come." - 🐷👑</div>
+###### <div align="center">"No matter how ridiculous the odds may seem, within us reside the power to overcome these challenges and achieve something beautiful, and one day we'll look back at where we started and be amazed by how far we've come." - Technoblade 🐷👑</div>
 
 <div align="center">
   <img align="center" alt="Cat-Standing-On-Code-Watching-A-Simulated-Rainfall-To-The-Side" height="300" src="https://c.tenor.com/NqURjAGH6GYAAAAd/cat-code.gif">
