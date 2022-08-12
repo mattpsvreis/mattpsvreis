@@ -6,7 +6,7 @@
 
 ## <div align="center">Hey there, I'm Mateus Reis, a Full-Stack Developer. 👋😎</div>
 
-##### <div align="center">- 📚 I currently work with the following technoolgies: Git, VSCode, Eclipse, HTML, CSS, JavaScript, TypeScript, Java, Spring Boot,  ReactJS, React-Native, and PostgreSQL.</div>
+##### <div align="center">- 🛠️ I currently work with the following technologies: Git, VSCode, Eclipse, HTML, CSS, JavaScript, TypeScript, Java, Spring Boot, Apache Kafka, Docker, ReactJS, React-Native, and PostgreSQL.</div>
 
 <div align="center">
   <img align="center" alt="Icon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
