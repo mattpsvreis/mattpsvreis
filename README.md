@@ -4,7 +4,8 @@
   <img align="center" alt="Cat-Standing-On-Code-Watching-A-Simulated-Rainfall-To-The-Side" height="300" src="https://c.tenor.com/NqURjAGH6GYAAAAd/cat-code.gif">
 </div>
 
-## <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Mateus+Reis,+a+Full-Stack+Developer.)](https://git.io/typing-svg) 👋😎</div>
+## <div align="center"><p style="text-align: center">👋😎</p>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Mateus+Reis.;I'm+a+Full-Stack+Developer.)](https://git.io/typing-svg)</div>
+
 
 ##### <div align="center">- 🛠️ I currently work with the following technologies: Git, VSCode, Eclipse, HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, Java, Spring Boot, Apache Kafka, Docker, and PostgreSQL.</div>
 
