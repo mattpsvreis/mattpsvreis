@@ -6,7 +6,7 @@
   <img align="center" alt="Cat-Standing-On-Code-Watching-A-Simulated-Rainfall-To-The-Side" height="300" src="https://c.tenor.com/NqURjAGH6GYAAAAd/cat-code.gif">
 </div>
 
-## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😎</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54acfd&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Mateus+Reis.;I'm+a+Full-Stack+Developer.;I+am+22+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
+## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😎</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed7aff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Mateus+Reis.;I'm+a+Full-Stack+Developer.;I+am+22+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
 
 ##### <div align="center">- 🛠️ I currently work with the following technologies: Git, VSCode, Eclipse, HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, Java, Spring Boot, Apache Kafka, Docker, and PostgreSQL.</div>
 
