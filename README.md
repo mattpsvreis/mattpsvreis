@@ -8,12 +8,12 @@
 
 ## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😎</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed7aff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Mateus+Reis.;I'm+a+Full-Stack+Developer.;I+am+22+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
 
-##### <div align="center">- 🛠️ I currently work with the following technologies: Git, VSCode, Eclipse, HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, Java, Spring Boot, Apache Kafka, Docker, and PostgreSQL.</div>
+##### <div align="center">- 🛠️ I currently work with the following technologies: Git, VSCode, IntelliJ, HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, Java, Spring Boot, Apache Kafka, Docker, and PostgreSQL.</div>
 
 <div align="center">
   <img align="center" alt="Icon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Icon-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="Icon-Eclipse" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg"/>
+  <img align="center" alt="Icon-IntelliJ" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Icon-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
