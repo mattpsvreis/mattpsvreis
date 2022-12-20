@@ -37,6 +37,6 @@
 
 <div align="center"><br>
   <a href="https://github.com/mattpsvreis">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mattpsvreis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattpsvreis&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mattpsvreis&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattpsvreis&layout=compact&langs_count=7&hide_title=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
 </div>
