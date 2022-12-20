@@ -1,3 +1,5 @@
+<div align="center"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##ed7aff&height=150&section=header"/></div>
+
 ###### <div align="center">"No matter how ridiculous the odds may seem, within us reside the power to overcome these challenges and achieve something beautiful, and one day we'll look back at where we started and be amazed by how far we've come." - Technoblade 🐷👑</div>
 
 <div align="center">
