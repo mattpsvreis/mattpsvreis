@@ -5,6 +5,7 @@
 </div>
 
 ## <div align="center">Hey there, I'm Mateus Reis, a Full-Stack Developer. 👋😎</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Mateus+Reis,+a+Full-Stack+Developer.+👋😎)](https://git.io/typing-svg)
 
 ##### <div align="center">- 🛠️ I currently work with the following technologies: Git, VSCode, Eclipse, HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, Java, Spring Boot, Apache Kafka, Docker, and PostgreSQL.</div>
 
