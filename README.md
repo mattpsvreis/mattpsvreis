@@ -25,7 +25,6 @@
   <img align="center" alt="Icon-JavaScript" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Icon-TypeScript" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="Icon-React" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="Icon-ReactNative" height="45" width="60" src="https://reactnative.dev/img/header_logo.svg"/>
   <img align="center" alt="Icon-NextJS" height="45" width="60" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"/>
 </div>
 
