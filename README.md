@@ -13,58 +13,58 @@
 ###### <div align="center">- ⚜️ Frontend:</div>
 
 <div align="center">
-  <img align="center" alt="Icon-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Icon-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Icon-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="Icon-ReactNative" height="30" width="40" src="https://reactnative.dev/img/header_logo.svg"/>
-  <img align="center" alt="Icon-NextJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"/>
+  <img align="center" alt="Icon-VSCode" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="Icon-HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Icon-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Icon-JavaScript" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Icon-TypeScript" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img align="center" alt="Icon-React" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="Icon-ReactNative" height="45" width="60" src="https://reactnative.dev/img/header_logo.svg"/>
+  <img align="center" alt="Icon-NextJS" height="45" width="60" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"/>
 </div>
 
 ###### <div align="center">- ⚙️ Backend:</div>
 
 <div align="center">
-  <img align="center" alt="Icon-IntelliJ" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
-  <img align="center" alt="Icon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Icon-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Icon-Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
-  <img align="center" alt="Icon-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img align="center" alt="Icon-IntelliJ" height="45" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
+  <img align="center" alt="Icon-Java" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Icon-Spring" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img align="center" alt="Icon-Kafka" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
+  <img align="center" alt="Icon-NodeJS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
 
 </div>
 
 ###### <div align="center">- 📊 Database:</div>
 
 <div align="center">
-  <img align="center" alt="Icon-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-  <img align="center" alt="Icon-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Icon-SQLite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
+  <img align="center" alt="Icon-PostgreSQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+  <img align="center" alt="Icon-MySQL" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Icon-SQLite" height="45" width="60" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
 </div>
 
 ###### <div align="center">- 🩺 Testing:</div>
 
 <div align="center">
-  <img align="center" alt="Icon-Jest" height="30" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
+  <img align="center" alt="Icon-Jest" height="45" width="60" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
 </div>
 
 ###### <div align="center">- 🧰 DevOps:</div>
 
 <div align="center">
-  <img align="center" alt="Icon-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img align="center" alt="Icon-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img align="center" alt="Icon-Azure" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/>
+  <img align="center" alt="Icon-Docker" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img align="center" alt="Icon-AWS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img align="center" alt="Icon-Azure" height="45" width="60" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/>
 </div>
 
 ###### <div align="center">- 🔮 Other:</div>
 
 <div align="center">
-  <img align="center" alt="Icon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Icon-Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
-  <img align="center" alt="Icon-Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-  <img align="center" alt="Icon-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
-  <img align="center" alt="Icon-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
-  <img align="center" alt="Icon-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
+  <img align="center" alt="Icon-Git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Icon-Firebase" height="45" width="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+  <img align="center" alt="Icon-Postman" height="45" width="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+  <img align="center" alt="Icon-Figma" height="45" width="60" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+  <img align="center" alt="Icon-Photoshop" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
+  <img align="center" alt="Icon-Trello" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
 </div>
 
 ##
