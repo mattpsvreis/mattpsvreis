@@ -8,6 +8,13 @@
 
 ## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😎</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed7aff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Mateus+Reis.;I'm+a+Full-Stack+Developer.;I+am+22+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
 
+## <div align='center'>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mattpsvreis" alt="mattpsvreis" />
+  </a>
+</div>
+
 ##### <div align="center">- 🛠️ I currently work with the following technologies:</div>
 
 ###### <div align="center">- ⚜️ Frontend:</div>
