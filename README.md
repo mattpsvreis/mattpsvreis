@@ -10,7 +10,7 @@
 
 ##### <div align="center">- 🛠️ I currently work with the following technologies:</div>
 
-###### <div align="center">- 🛠️ Frontend:</div>
+###### <div align="center">- ⚜️ Frontend:</div>
 
 <div align="center">
   <img align="center" alt="Icon-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -23,7 +23,7 @@
   <img align="center" alt="Icon-NextJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"/>
 </div>
 
-###### <div align="center">- 🛠️ Backend:</div>
+###### <div align="center">- ⚙️ Backend:</div>
 
 <div align="center">
   <img align="center" alt="Icon-IntelliJ" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
@@ -34,7 +34,7 @@
 
 </div>
 
-###### <div align="center">- 🛠️ Database:</div>
+###### <div align="center">- 📊 Database:</div>
 
 <div align="center">
   <img align="center" alt="Icon-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
@@ -42,13 +42,13 @@
   <img align="center" alt="Icon-SQLite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
 </div>
 
-###### <div align="center">- 🛠️ Testing:</div>
+###### <div align="center">- 🩺 Testing:</div>
 
 <div align="center">
   <img align="center" alt="Icon-Jest" height="30" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
 </div>
 
-###### <div align="center">- 🛠️ DevOps:</div>
+###### <div align="center">- 🧰 DevOps:</div>
 
 <div align="center">
   <img align="center" alt="Icon-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
@@ -56,7 +56,7 @@
   <img align="center" alt="Icon-Azure" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/>
 </div>
 
-###### <div align="center">- 🛠️ Other:</div>
+###### <div align="center">- 🔮 Other:</div>
 
 <div align="center">
   <img align="center" alt="Icon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
