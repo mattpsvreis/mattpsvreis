@@ -21,7 +21,7 @@
 "/>
   <img align="center" alt="Icon-CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=rgb(255%2C255%2C255)
 "/>
-![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=rgb(0%2C0%2C0))
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=rgb(0%2C0%2C0)">
   <img align="center" alt="Icon-TypeScript" src=""/>
   <img align="center" alt="Icon-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=rgb(255%2C255%2C255)
 "/>
