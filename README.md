@@ -17,16 +17,12 @@
 ##### <div align="center">- 🛠️ I currently work with the following technologies:</div>
 
 <div align="center">
-  <img align="center" alt="Icon-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=rgb(255%2C255%2C255)
-"/>
-  <img align="center" alt="Icon-CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=rgb(255%2C255%2C255)
-"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=rgb(0%2C0%2C0)">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=rgb(255%2C255%2C255)"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=rgb(255%2C255%2C255)"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=rgb(0%2C0%2C0)"/>
   <img align="center" alt="Icon-TypeScript" src=""/>
-  <img align="center" alt="Icon-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=rgb(255%2C255%2C255)
-"/>
-  <img align="center" alt="Icon-NodeTS" src="https://img.shields.io/badge/Node.ts-3178C6?style=flat&logo=tsnode&logoColor=rgb(255%2C255%2C255)
-"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=rgb(255%2C255%2C255)"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node.ts-3178C6?style=flat&logo=tsnode&logoColor=rgb(255%2C255%2C255)"/>
   <img align="center" alt="Icon-React" src=""/>
   <img align="center" alt="Icon-Java" src=""/>
   <img align="center" alt="Icon-Spring" src=""/>
