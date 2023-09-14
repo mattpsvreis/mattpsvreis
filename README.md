@@ -24,11 +24,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.ts-3178C6?style=flat&logo=tsnode&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=rgb(0%2C0%2C0)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=rgb(0%2C0%2C0)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=rgb(255%2C255%2C255)"/>
@@ -36,8 +33,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=rgb(0%2C0%2C0)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=rgb(255%2C255%2C255)"/>
