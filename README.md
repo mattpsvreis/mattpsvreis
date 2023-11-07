@@ -27,7 +27,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=rgb(255%2C255%2C255)"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Cypress.io-047857?style=flat&logo=cypress&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=rgb(255%2C255%2C255)"/>
