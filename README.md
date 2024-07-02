@@ -6,7 +6,7 @@
   <img align="center" alt="Cat-Standing-On-Code-Watching-A-Simulated-Rainfall-To-The-Side" height="300" src="https://c.tenor.com/NqURjAGH6GYAAAAd/cat-code.gif">
 </div>
 
-## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😎</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed7aff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Mateus+Reis.;I'm+a+Full-Stack+Node.js+Developer.;I+am+23+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
+## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😎</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed7aff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Mateus+Reis.;I'm+a+Fullstack+Web+Developer.;I+am+23+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
 
 <div align='center'>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
