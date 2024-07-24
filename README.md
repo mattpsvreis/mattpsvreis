@@ -30,7 +30,7 @@
 
 <hr>
 
-## 👩‍💻  About Me
+## 📜 About Me
 <ul align="left">
   <li>🔭 I’m currently working as a Frontend Web Developer.</li>
   <li>📚 Learning React, Node, TypeScript, Python, .NET!</li>
