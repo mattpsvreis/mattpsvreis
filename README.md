@@ -25,10 +25,8 @@
   </a>
 </div>
 
-## 📜 About Me
-<p align="left">Hey there! 👋😎
-
-My name's Mateus Reis, I'm 23, and I am a Fullstack Web Developer, AI Enthusiast, and Technical Trailblazer.
+## Hey there! 👋😎
+<p align="left">My name's Mateus Reis, I'm 23, and I am a Fullstack Web Developer, AI Enthusiast, and Technical Trailblazer.
 
 I have three years of experience developing complex and varied applications such as a mobile gambling hints app, an intranet app for monitoring and resolving errors manually/automated, administrative panels, and various types of e-commerce.</p>
 
