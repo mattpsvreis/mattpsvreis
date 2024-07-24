@@ -37,7 +37,7 @@ I have three years of experience developing complex and varied applications such
   <li>⚡ As hobbies I play games, watch anime/tv show/movies, go drifting, take photos, and listen to music :)</li>
 </ul>
 
-## 🛠 Languages & Tools
+## Languages & Tools 🛠
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=rgb(255%2C255%2C255)"/>
@@ -59,7 +59,7 @@ I have three years of experience developing complex and varied applications such
   <img alt="Static Badge" src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=rgb(255%2C255%2C255)"/>
 </div>
 
-## 🖥️ My GitHub Stats
+## My GitHub Stats 🖥️
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mattpsvreis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattpsvreis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
