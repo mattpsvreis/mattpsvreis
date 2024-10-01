@@ -28,36 +28,40 @@
 ## Hey there! 👋😎
 <p align="left">My name's Mateus Reis, I'm 23, and I am a Fullstack Web Developer, AI Enthusiast, and Technical Trailblazer.
 
-I have three years of experience developing complex and varied applications such as a mobile gambling hints app, an intranet app for monitoring and resolving errors manually/automated, administrative panels, and various types of e-commerce.</p>
+I have three years of experience developing complex and varied production-ready applications such as a web mobile gaming app, an intranet app for monitoring and resolving errors manually or creating automated solutions to erroneous payloads, administrative panels, dashboards, graphs, forums frameworks, wiki frameworks, Discord bots, gaming mods with LUA, and various types of e-commerce.</p>
 
 <ul align="left">
   <li>🌎 I'm from Rio de Janeiro, Brazil.</li>
-  <li>💼 Currently working as a Frontend Web Developer using React w/ Vite.</li>
-  <li>📚 Learning React, Node, TypeScript, Python, .NET!</li>
+  <li>💼 Currently open to new opportunities with either Frontend (React) or Backend (Node), or possibly both in a Fullstack position.</li>
+  <li>📚 Always improving React, Node, TypeScript!</li>
   <li>⚡ As hobbies I play games, watch anime/tv show/movies, go drifting, take photos, and listen to music :)</li>
 </ul>
 
 ## Languages & Tools 🛠
-<div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=rgb(0%2C0%2C0)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Node.ts-3178C6?style=flat&logo=tsnode&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=rgb(0%2C0%2C0)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat&logo=nextdotjs&logoColor=rgb(0%2C0%2C0)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Cypress.io-047857?style=flat&logo=cypress&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=rgb(255%2C255%2C255)"/>
-</div>
+- React
+- Node
+- TypeScript
+- NestJS
+- Next.js
+- Jest
+- Cypress.io
+- HTML5
+- CSS3
+- SASS
+- TailwindCSS
+- Apache Kafka
+- PostgreSQL
+- SQLite
+- Docker
+- Terraform
+- GraphQL
+- REST API
+- AWS ECS, EC2, S3, RDS
+- Git
+- GitHub, GitLab, BitBucket
+- JIRA
+- Confluence
+- Figma
 
 ## My GitHub Stats 🖥️
 <div align="center">
