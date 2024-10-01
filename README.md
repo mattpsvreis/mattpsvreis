@@ -61,6 +61,7 @@ I have three years of experience developing complex and varied production-ready 
 - GitHub, GitLab, BitBucket
 - JIRA
 - Confluence
+- OpenAI
 - Figma
 - LUA
 
