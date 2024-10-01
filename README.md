@@ -46,6 +46,9 @@ I have three years of experience developing complex and varied production-ready 
 - CSS3
 - SASS
 - TailwindCSS
+- Redux
+- Zustand
+- TanStack Query (former React Query)
 - Apache Kafka
 - PostgreSQL
 - SQLite
@@ -59,6 +62,7 @@ I have three years of experience developing complex and varied production-ready 
 - JIRA
 - Confluence
 - Figma
+- LUA
 
 ## My GitHub Stats 🖥️
 <div align="center">
