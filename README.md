@@ -1,8 +1,5 @@
 <p align="center"><i><a target="_blank" href="https://youtu.be/ZrEchxApliA">"No matter how ridiculous the odds may seem, within us reside the power to overcome these challenges and achieve something beautiful, and one day we'll look back at where we started and be amazed by how far we've come."</a></i> - Technoblade 🐷👑</p>
 
-<div align="center">
-  <img height="250" src="https://camo.githubusercontent.com/c4f298ca0c9183c11d4d26eada891b0169cd871cd08b9f1f89a87abb6053822f/68747470733a2f2f632e74656e6f722e636f6d2f4e7155526a41474836475941414141642f6361742d636f64652e676966" />
-</div>
 <br>
 <div align="center" style="text-decoration: none">
   <a href="mailto:mateuspsvreis@gmail.com" target="_blank">
