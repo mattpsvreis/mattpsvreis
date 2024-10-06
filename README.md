@@ -23,14 +23,14 @@
 </div>
 
 ## Hey there! 👋😎
-<p align="left">My name's Mateus Reis, I'm 23, and I am a Fullstack Web Developer, AI Enthusiast, and Technical Trailblazer.
+<p align="left">My name's Mateus Reis, I'm 24, and I am a Fullstack Web Developer, AI Enthusiast, and Technical Trailblazer.
 
 I have three years of experience developing complex and varied production-ready applications such as a web mobile gaming app, an intranet app for monitoring and resolving errors manually or creating automated solutions to erroneous payloads, administrative panels, dashboards, graphs, forums frameworks, wiki frameworks, Discord bots, gaming mods with LUA, and various types of e-commerce.</p>
 
 <ul align="left">
   <li>🌎 I'm from Rio de Janeiro, Brazil.</li>
   <li>💼 Currently open to new opportunities with either Frontend (React) or Backend (Node), or possibly both in a Fullstack position.</li>
-  <li>📚 Always improving React, Node, TypeScript!</li>
+  <li>📚 Always improving my React/Node/TypeScript ecosystem knowledge!</li>
   <li>⚡ As hobbies I play games, watch anime/tv show/movies, go drifting, take photos, and listen to music :)</li>
 </ul>
 
