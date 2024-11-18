@@ -29,7 +29,7 @@ I have three years of experience developing complex and varied production-ready 
 
 <ul align="left">
   <li>🌎 I'm from Rio de Janeiro, Brazil.</li>
-  <li>💼 Currently open to new opportunities with either Frontend (React) or Backend (Node), or possibly both in a Fullstack position.</li>
+  <li>💼 Working for PagBank (via Invillia) as a Mid-Level Frontend Developer.</li>
   <li>📚 Always improving my React/Node/TypeScript ecosystem knowledge!</li>
   <li>⚡ As hobbies I play games, watch anime/tv show/movies, go drifting, take photos, and listen to music :)</li>
 </ul>
