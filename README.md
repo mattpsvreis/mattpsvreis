@@ -23,9 +23,13 @@
 </div>
 
 ## Hey there! 👋😎
-<p align="left">My name's Mateus Reis, I'm 24, and I am a Fullstack Software Engineer, AI Enthusiast, and Technical Trailblazer.
+<p align="left">My name's Mateus Reis, I'm 25 years old, and I am a Software Engineer, AI Enthusiast and Technical Trailblazer, having music and gaming for personal hobbies.
 
-I have three years of experience developing complex and varied production-ready applications such as a web mobile gaming app, an intranet app for monitoring and resolving errors manually or creating automated solutions to erroneous payloads, administrative panels, dashboards, graphs, forums frameworks, wiki frameworks, Discord bots, gaming mods with LUA, and various types of e-commerce.</p>
+4 years of experience developing complex and varied applications, from intranet systems to end user facing systems with focus on customer and user experience.
+
+I work mainly with NodeJS, TypeScript, React, Vite, NextJS, Postgres, Apache Kafka, Docker, AWS and OpenAI, but I am open to other stacks, having previous experience with Java, Python, and LUA.
+
+I have excellent communication skills and am recognized for my sharp dissertation skills, sporting willingness to take on leadership positions, assuming responsibility for the success of the product.</p>
 
 <ul align="left">
   <li>🌎 I'm from Rio de Janeiro, Brazil.</li>
