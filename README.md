@@ -31,12 +31,6 @@ I work mainly with NodeJS, TypeScript, React, Vite, NextJS, Postgres, Apache Kaf
 
 I have excellent communication skills and am recognized for my sharp dissertation skills, sporting willingness to take on leadership positions, assuming responsibility for the success of the product.</p>
 
-<ul align="left">
-  <li>🌎 I'm from Rio de Janeiro, Brazil.</li>
-  <li>📚 Always improving my React/Node/TypeScript ecosystem knowledge!</li>
-  <li>⚡ As hobbies I play games, watch anime/tv show/movies, go drifting, take photos, and listen to music :)</li>
-</ul>
-
 ## My GitHub Stats 🖥️
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mattpsvreis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
