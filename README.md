@@ -29,41 +29,9 @@ I have three years of experience developing complex and varied production-ready 
 
 <ul align="left">
   <li>🌎 I'm from Rio de Janeiro, Brazil.</li>
-  <li>💼 Working for PagBank (via Invillia) as a Mid-Level Frontend Developer.</li>
   <li>📚 Always improving my React/Node/TypeScript ecosystem knowledge!</li>
   <li>⚡ As hobbies I play games, watch anime/tv show/movies, go drifting, take photos, and listen to music :)</li>
 </ul>
-
-## Languages & Tools 🛠
-- React
-- Node
-- TypeScript
-- NestJS
-- Next.js
-- Jest
-- Cypress.io
-- HTML5
-- CSS3
-- SASS
-- TailwindCSS
-- Redux
-- Zustand
-- TanStack Query (former React Query)
-- Apache Kafka
-- PostgreSQL
-- SQLite
-- Docker
-- Terraform
-- GraphQL
-- REST API
-- AWS ECS, EC2, S3, RDS
-- Git
-- GitHub, GitLab, BitBucket
-- JIRA
-- Confluence
-- OpenAI
-- Figma
-- LUA
 
 ## My GitHub Stats 🖥️
 <div align="center">
