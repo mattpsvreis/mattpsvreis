@@ -15,6 +15,6 @@
 
 4 years of experience developing complex and varied applications, from intranet systems to end user facing systems with focus on customer and user experience.
 
-I work mainly with NodeJS, TypeScript, React, Vite, NextJS, Postgres, Apache Kafka, Docker, AWS and OpenAI, but I am open to other stacks, having previous experience with Java, Python, and LUA.
+I work mainly with NodeJS, TypeScript, React, Vite, NextJS, Postgres, Apache Kafka, Docker, AWS, Claude Code and Cursor, but I am open to other stacks, having previous experience with Java, Python, and LUA.
 
 I have excellent communication skills and am recognized for my sharp dissertation skills, sporting willingness to take on leadership positions, assuming responsibility for the success of the product.</p>
