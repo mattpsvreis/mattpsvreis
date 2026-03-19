@@ -18,10 +18,3 @@
 I work mainly with NodeJS, TypeScript, React, Vite, NextJS, Postgres, Apache Kafka, Docker, AWS and OpenAI, but I am open to other stacks, having previous experience with Java, Python, and LUA.
 
 I have excellent communication skills and am recognized for my sharp dissertation skills, sporting willingness to take on leadership positions, assuming responsibility for the success of the product.</p>
-
-## My GitHub Stats 🖥️
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattpsvreis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattpsvreis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mattpsvreis&no-frame=true&no-bg=true&theme=tokyonight&margin-w=0&margin-h=0" height="150" alt="trophy graph"  />
-</div>
