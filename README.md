@@ -13,7 +13,7 @@
 ## Hey there! 👋😎
 <p align="left">My name's Mateus Reis, I'm 25 years old, and I am a Software Engineer, AI Enthusiast and Technical Trailblazer, having music and gaming for personal hobbies.
 
-4 years of experience developing complex and varied applications, from intranet systems to end user facing systems with focus on customer and user experience.
+5 years of experience developing complex and varied applications, from intranet systems to end user facing systems with focus on customer and user experience.
 
 I work mainly with NodeJS, TypeScript, React, Vite, NextJS, Postgres, Apache Kafka, Docker, AWS, Claude Code and Cursor, but I am open to other stacks, having previous experience with Java, Python, and LUA.
 
