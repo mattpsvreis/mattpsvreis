@@ -11,7 +11,7 @@
 </div>
 
 ## Hey there! 👋😎
-<p align="left">My name's Mateus Reis, I'm 25 years old, and I am a Software Engineer, AI Enthusiast and Technical Trailblazer, having music and gaming for personal hobbies.
+<p align="left">My name's Mateus Reis, I'm 26 years old, and I am a Software Engineer, AI Enthusiast and Technical Trailblazer, having music and gaming for personal hobbies.
 
 5 years of experience developing complex and varied applications, from intranet systems to end user facing systems with focus on customer and user experience.
 
